@@ -16,4 +16,10 @@ To try this:
 * run blade `gw deploy` or alternatively, `blade gw build` then copy the resulting `build/dist/react.mvc.widget-1.0.0.jar` to a liferay bundle `osgi/modules` folder
 * Drop the new portlet to a page 
 
-You can also see the results by checking the images under results/ folder
+You can also see the results by checking the images under results/ folder: 
+
+ ![Using the liferay react wrapper](results/liferay-wrapper-react-dom.png)
+
+![Using the react:component tag](results/react-component_render.png)
+
+![Using the reactdom.render() function](results/reactdom_render.png)
