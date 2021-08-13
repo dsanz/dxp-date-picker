@@ -13,7 +13,6 @@
 
 </div>
 
-
 <h3>Rendering via <code>&lt;aui:script></code> using <code>ReactDOM.render()</code></h3>
 <div id="<portlet:namespace />-1"></div>
 

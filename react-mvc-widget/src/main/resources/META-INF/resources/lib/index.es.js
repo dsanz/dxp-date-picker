@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ClayDatePicker from '@clayui/date-picker';
 
 function SuperSimple(props) {
   const {myCustomNumberParameter, portletId} = props;
@@ -23,7 +22,6 @@ function SuperSimple(props) {
                   <li><code>portletId</code>: {portletId}</li>
                 </ul>
               </ul>
-              <ClayDatePicker {...props}/>
           </div>
 }
 
