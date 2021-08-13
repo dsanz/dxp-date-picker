@@ -15,3 +15,5 @@ To try this:
 * add the project to a liferay workspace for 7.3 or higher
 * run blade `gw deploy` or alternatively, `blade gw build` then copy the resulting `build/dist/react.mvc.widget-1.0.0.jar` to a liferay bundle `osgi/modules` folder
 * Drop the new portlet to a page 
+
+You can also see the results by checking the images under results/ folder
