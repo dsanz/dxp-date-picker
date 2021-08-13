@@ -1,0 +1,5 @@
+Bundle-Name: react-mvc-widget
+Bundle-SymbolicName: react.mvc.widget
+Bundle-Version: 1.0.0
+Export-Package: react.mvc.widget.constants
+Web-ContextPath: /react-mvc-widget
